@@ -1,0 +1,7 @@
+.NewBoxForm-group {
+	margin: 20px 40px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
